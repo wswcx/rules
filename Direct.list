@@ -252,6 +252,10 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
 
+# PLEX
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,v4.plex.tv
+
 # PPTV、PPLive
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
