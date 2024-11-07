@@ -15,6 +15,9 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+IP-CIDR,106.75.152.192/32,no-resolve
+IP-CIDR,52.80.66.30/32,no-resolve
+IP-CIDR,52.80.53.83/32,no-resolve
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
