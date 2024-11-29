@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,time.asia.apple.com
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,202.103.225.68/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
